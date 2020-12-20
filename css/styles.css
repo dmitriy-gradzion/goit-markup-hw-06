@@ -624,6 +624,7 @@ a {
   letter-spacing: 0.06em;
   color: #FFFFFF;
   padding: 10px 28px;
+  cursor: pointer;
 }
 
 .footer-form-icon {
